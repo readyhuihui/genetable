@@ -1,3 +1,3 @@
 # genetable
-自动生成表结构
+测试数据
 aaa
